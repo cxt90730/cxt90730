@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Gopher
 - Member of journeymidnight
-- Forcusing on develop [![Yig](https://github.com/journeymidnight/yig)](Yig), a compatible S3 Gateway written with Go.
+- Forcusing on develop [Yig](https://github.com/journeymidnight/yig), a compatible S3 Gateway written with Go.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxt90730&theme=cobalt&show_icons=true&&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxt90730&theme=cobalt&show_icons=true)
