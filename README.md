@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/cxt90730?label=Follow%20at%20GitHub&style=for-the-badge)](https://github.com/cxt90730)
-[![GitHub Sponsor](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge)](https://github.com/sponsors/cxt90730)
+
+- Gopher
+- Member of journeymidnight
+- Forcusing on develop [![Yig](https://github.com/journeymidnight/yig)](Yig), a compatible S3 Gateway written with Go.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxt90730&theme=cobalt&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxt90730&theme=cobalt&show_icons=true)
