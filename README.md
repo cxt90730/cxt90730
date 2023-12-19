@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 - Member of journeymidnight
 - Forcusing on develop [Yig](https://github.com/journeymidnight/yig), a compatible S3 Gateway written with Go and better than minio and radosgateway.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9005f902-6a5a-4be8-91d8-90d456392f9b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxt90730&theme=cobalt&show_icons=true&&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxt90730&theme=cobalt&show_icons=true)
